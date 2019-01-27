@@ -13,3 +13,6 @@ Forks -> Copiar un repo de github a github
 Clone -> Copia un repo de github a local, o de local a local
 Branches -> Versiones parelelas de un mismo repo.
 
+What is the benefit of having a copy of the last known state of the remote 
+stored locally?
+Tienes todos los features del remote localmente
