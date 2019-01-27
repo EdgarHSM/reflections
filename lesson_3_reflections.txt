@@ -16,3 +16,8 @@ Branches -> Versiones parelelas de un mismo repo.
 What is the benefit of having a copy of the last known state of the remote 
 stored locally?
 Tienes todos los features del remote localmente
+
+How would you collaborate without using Git or GitHub? What would be easier, 
+and what would be harder?
+Con emails o Google Drive. Estaria mas sencillo pero con muchas menos 
+funcionalidades
