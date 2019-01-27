@@ -1,0 +1,19 @@
+What happens when you initialize a repository? Why do you need to do it?
+Se crea el folder .git, si no lo haces pues git no funciona
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+Lo que esta en el working directory pero no en el staging area sera ignorado en
+el siguiente commit. Permite tener mas flexibilidad sobre los commits
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+Solo agregando los archivos que quiera commitear
+
+What are some situations when branches would be helpful in keeping your history 
+organized? How would branches help?
+Permiten agregar cosas temporales/experimentales al proyecto, asegurandote
+que el master branch siempre funciona
+
+How do the diagrams help you visualize the branch structure?
+Es mas facil verlo visualmente que con texto
