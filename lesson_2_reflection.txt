@@ -17,3 +17,14 @@ que el master branch siempre funciona
 
 How do the diagrams help you visualize the branch structure?
 Es mas facil verlo visualmente que con texto
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+Todos los comitts de ambas branches se unen en una sola.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+ manually?
+ Pros automatic merging: Es automatico.
+ Cons automatic merging: No siempre funciona.
+
+ 
