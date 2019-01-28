@@ -21,3 +21,9 @@ How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 Con emails o Google Drive. Estaria mas sencillo pero con muchas menos 
 funcionalidades
+
+When would you want to make changes in a separate branch rather than directly in
+ master? What benefits does each approach have?
+ Para cambios experimentales o feautures en los que quieres obtener opinion de
+ los demas antes de agregarlo al master. Trabajar solo en master sin branches
+ es mas sencillo, pero usar branches es mejor para trabajo colaborativo.
